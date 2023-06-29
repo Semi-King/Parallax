@@ -71,7 +71,7 @@ section  {
   align-items: center;
   overflow: hidden;
 }
-
+/* Section code */
 section::before {
   content: '';
   position: absolute;
